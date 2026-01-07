@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <img src="/images/image.png" alt="Ercas" className="h-8 w-auto" />
-              <span className="font-bold text-lg">ERCAS</span>
+              
             </div>
             <p className="text-sm text-muted-foreground">
               Digital finance infrastructure built for institutions that require reliability, compliance, and scale.
