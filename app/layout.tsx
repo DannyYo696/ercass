@@ -12,23 +12,22 @@ export const metadata: Metadata = {
   title: "ERCAS - Digital Finance Infrastructure",
   description:
     "Digital finance infrastructure built for banks, enterprises, and institutions that require reliability, compliance, and scale.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "https://raw.githubusercontent.com/DannyYo696/svillage/2d84cc5e2ff7790841b9b185e060219de74e2c2b/ercas%20icon.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "https://raw.githubusercontent.com/DannyYo696/svillage/2d84cc5e2ff7790841b9b185e060219de74e2c2b/ercas%20icon.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "https://raw.githubusercontent.com/DannyYo696/svillage/2d84cc5e2ff7790841b9b185e060219de74e2c2b/ercas%20icon.png",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "https://raw.githubusercontent.com/DannyYo696/svillage/2d84cc5e2ff7790841b9b185e060219de74e2c2b/ercas%20icon.png",
   },
 }
 
